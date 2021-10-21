@@ -1,0 +1,19 @@
+body {background-color: rgb(0, 79, 248);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {text-align: center;
+    color: white;
+    font-size: 300%;
+}
+
+h2 {text-align: left;
+    color: white;
+}
+
+table{border-collapse: collapse;
+}
+td, th
+{border: 1px solid black;
+}
